@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControlsTools_WebApi.props" />
+</Project>
